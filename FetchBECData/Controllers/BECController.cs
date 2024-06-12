@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FetchBECData.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class BECController : ControllerBase
     {
         private readonly ILogger<BECController> _logger;
