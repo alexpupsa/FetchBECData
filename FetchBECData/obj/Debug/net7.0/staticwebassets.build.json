@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y4be4RVeAxkZIQUwmMm2dqanwO6OzDKHeuCi7mEATac=",
+  "Source": "FetchBECData",
+  "BasePath": "_content/FetchBECData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
